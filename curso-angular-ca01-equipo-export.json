@@ -1,0 +1,19 @@
+[ {
+  "Frase" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.",
+  "Nombre" : "Roberto Tinajero",
+  "Puesto" : "Develop Full Satck",
+  "twitter" : "@rtinajero",
+  "url" : "https://firebasestorage.googleapis.com/v0/b/curso-angular-ca01.appspot.com/o/team-1.jpg?alt=media&token=80c29adb-4abb-474a-afe6-08d798953e64"
+}, {
+  "Frase" : "Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.",
+  "Nombre" : "Ana Zlava",
+  "Puesto" : "System Ingeniere",
+  "twitter" : "@azlava",
+  "url" : "https://firebasestorage.googleapis.com/v0/b/curso-angular-ca01.appspot.com/o/team-2.jpg?alt=media&token=03a27515-6d96-4d0e-abfd-f34a8fcc86ee"
+}, {
+  "Frase" : "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+  "Nombre" : "John Ackerman",
+  "Puesto" : "Designer",
+  "twitter" : "@aakkh",
+  "url" : "https://firebasestorage.googleapis.com/v0/b/curso-angular-ca01.appspot.com/o/team-3.jpg?alt=media&token=8ef1f2d4-4306-4977-9536-be3f1a35d42d"
+} ]
